@@ -47,6 +47,16 @@
       "logoURI": "https://dirac.finance/logos/dirac-logos/black_icon.png",
       "tags": ["featured"]
     },
+    
+    {
+      "chainId": 80084,
+      "address": "0xdFddBCEc833330788eC148BBEF624C6527846Ef0",
+      "symbol": "WAGYU",
+      "name": "WAGYU",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/wagyu.png",
+      "tags": ["featured"]
+    },
     {
       "chainId": 80084,
       "address": "0x2206182A4264bcE0663681448b24Fc6781Fc8E40",
